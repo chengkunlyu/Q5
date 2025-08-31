@@ -13,3 +13,6 @@ This repository contains a prototype of a streaming pipeline implemented in pure
 
 ```bash
 python Q5.py
+
+## Output
+inflight:0 unique_writes: 131
